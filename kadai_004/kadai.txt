@@ -1,2 +1,0 @@
-d4962c1 (HEAD -> main) 日本語訳を追加
-e79a6f6 hello_world.txtを追加
